@@ -1,0 +1,8 @@
+//
+// Created by zhs007 on 2017/7/4.
+//
+
+#ifndef SLOTSGT_5X25_SLOTSLOGIC_H
+#define SLOTSGT_5X25_SLOTSLOGIC_H
+
+#endif //SLOTSGT_5X25_SLOTSLOGIC_H

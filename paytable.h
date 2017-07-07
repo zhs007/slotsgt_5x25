@@ -43,6 +43,8 @@ public:
             m_lst[s][3] = p4;
             m_lst[s][4] = p5;
         }
+
+        return true;
     }
 
     int get(int x, int y) {
